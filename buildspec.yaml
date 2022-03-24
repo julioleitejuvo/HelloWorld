@@ -11,6 +11,6 @@ phases:
     
 artifacts:
   files:
-    - hello-world.py
+    - helloworld.py
     - imagedefinitions.json
   base-directory:
